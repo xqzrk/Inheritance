@@ -1,4 +1,4 @@
-public class Smartphone extends Product{
+public class Smartphone extends Product {
     private String producer;
 
     public String getProducer() {
